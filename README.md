@@ -1,3 +1,6 @@
 # Starlit-Temple-Hytale-Contest-
-Literally just an adventure map with very minimal Asset Editor application. No Java coding was done here.
-I can't even put the map file in here because it breaks the file size limit.
+Asset pack that goes with the Starlit Temple adevtnure map.
+You can either put it in your mods folder or just put it in the world's mods folder,
+shoul work fine either way.
+
+No java coding was done for this map, this is all there is to go with it.
